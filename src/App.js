@@ -10,7 +10,7 @@ function App() {
       
       
       <ul>
-        <Link to="/">Home</Link>
+        <Link to="/Home">Home</Link>
         <Link to="/Contato">Contato</Link>
         
       </ul>
